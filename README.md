@@ -54,3 +54,12 @@ O processo de acesso e criação de recursos para a exploação dos recursos já
 
 - Na terceira imagem, não foi capaz de identificar a existência de ilustrações ou compreender que era uma propaganda. É possivel perceber que ele realiza uma descrição bem simplificada.
 ![Captura de tela 2024-03-24 151112](https://github.com/Natythy/Reconhecimento-facial-usando-Azure-ML/assets/88320974/60ffc011-2531-4485-a5e0-04f195779846)
+
+## Conclusões
+
+As ferramentas são efetivas no que prometem, apenas a descrição de imagens que acabou não dando descrições mais detalhadas sobre algumas imagens. Apesar disso são ferramentas que otimizam o tempo de muitas pessoas que precisam extrair texto de imagens ou criar descrições simplificadas para suas imagens. Vale muito apena testar e sendo o caso incoporar na sua rotina.
+
+## Limpando o ambiente
+
+> [!WARNING]
+> Após a conclusão do projeto, se não for reaproveitar os recursos utilizados, é aconselhável excluí-los, bem como os grupos de recursos, para que não haja cobranças indevidas na sua Azure Subscription.
