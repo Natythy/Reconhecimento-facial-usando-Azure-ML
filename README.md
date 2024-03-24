@@ -1,4 +1,4 @@
-# Reconhecimento-facial-usando-Azure-ML
+# Reconhecimento Facial Usando Azure ML
 
 ![Static Badge](https://img.shields.io/badge/Status_Projeto:-Concluído_(24/Mar/2024)-green)
 
