@@ -57,7 +57,7 @@ O processo de acesso e criação de recursos para a exploração dos recursos j�
 
 ## Conclusões
 
-As ferramentas são efetivas no que prometem, apenas a descrição de imagens que acabou não dando descrições mais detalhadas sobre algumas imagens. Apesar disso são ferramentas que otimizam o tempo de muitas pessoas que precisam extrair texto de imagens ou criar descrições simplificadas para suas imagens. Vale muito apena testar e sendo o caso incoporar na sua rotina.
+As ferramentas são efetivas no que prometem, apenas a descrição de imagens que acabou não detectando muitos elementos. Apesar disso são ferramentas que otimizam o tempo de muitas pessoas que precisam extrair texto de imagens ou criar descrições simplificadas para suas imagens. Vale muito apena testar e sendo o caso incoporar na sua rotina.
 
 ## Limpando o ambiente
 
